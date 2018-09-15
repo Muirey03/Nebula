@@ -62,3 +62,5 @@ While Nebula doesn't change any normal CSS, there are some additions to the lang
 `NEBULA_TEXT` is the chosen text colour.
 
 `NEBULA_DARKER` is a darker version of `NEBULA_DARK`. This is a set amount darker, so you cannot change its value.
+
+[See an example of a custom stylesheet](/iDH.css)
